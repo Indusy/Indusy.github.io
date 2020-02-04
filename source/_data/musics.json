@@ -1,0 +1,16 @@
+[{
+	"name": "Sans.",
+	"artist": "Toby Fox",
+	"url": "/medias/music/file/Sans.mp3",
+	"cover": "/medias/music/cover/sans.jpg"
+}, {
+	"name": "Take me hand",
+	"artist": "DAISHI DANCE,Cecile Corbel",
+	"url": "/medias/music/music2.mp3",
+	"cover": "/medias/music/cover2.png"
+}, {
+	"name": "Shape of You",
+	"artist": "J.Fla",
+	"url": "http://xxx.com/music3.mp3",
+	"cover": "http://xxx.com/music-cover3.png"
+}]
