@@ -122,6 +122,6 @@ githubEmojis:
 
 deploy:
     type: git
-    repo: http://github.com/indusy/indusy.github.io
+    repo: https://github.com/indusy/indusy.github.io.git
     branch: master
     message: blogs
