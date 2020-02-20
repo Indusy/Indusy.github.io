@@ -8,10 +8,10 @@ coverImg: /source/images/1.jpg
 toc: false
 mathjax: false
 date: 2020-02-06 14:09:03
-tags: Markdown
+tags: 偷懒
 password:
 summary: hexo文章模板
-categories: 技巧
+categories: Markdown
 ---
 
 # hexo文章模板
@@ -24,10 +24,14 @@ categories: 技巧
 
 方法：找到hexo目录/scaffolds/post.md，编辑之。把所需项目加入后，再输入`hexo new`，就生成了你所需的所有项目。
 
-```
+```shell
 $ cd blog/scaffolds
 $ vim post.md
+```
 
+示例如下：
+
+```
 title: {{ title }}
 date: {{ date }}
 tags:
