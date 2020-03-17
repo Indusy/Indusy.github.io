@@ -5,7 +5,7 @@
 # Site
 title: 梧矜的屋
 subtitle: 建议改成：梧 矜 的 屋
-description: 记录issues
+description: 记录 分享 收获
 keywords: Windows,Linux,Android,Hackintosh,Programming
 author: 梧矜
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://00oo00.xyz
+url: http://blog.00oo00.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -122,6 +122,6 @@ githubEmojis:
 
 deploy:
     type: git
-    repo: https://github.com/indusy/indusy.github.io.git
+    repo: https://e.coding.net/shadcloud/blog.git
     branch: master
     message: blogs
