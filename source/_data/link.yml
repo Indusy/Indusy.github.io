@@ -9,7 +9,7 @@ class:
     2:
       name: 丁丁の店
       link: https://blog.butanediol.me/
-      avatar: https://blog.butanediol.me/medias/avatar.jpg
+      avatar: https://blog.butanediol.me/media/avatar.jpg
       descr: 成为不秃头的码农
     3:
       name: XCLAN's Blog
@@ -18,6 +18,6 @@ class:
       descr: 不会写代码（假）
     4:
       name: 一只鸽子的小站
-      link: https://onepigeon.baklib.com/
-      avatar: /avatar/onepigeon.jpg
+      link: https://one-pigeon.github.io/
+      avatar: https://raw.githubusercontent.com/One-Pigeon/One-Pigeon.github.io/master/Pictures/Astronaut.jpg
       descr: 这只鸽子喜欢碎碎念……
